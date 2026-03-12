@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Nihal Pujari",
+    "title": "Cloud Application Developer & Data Science Student",
+    "summary": "Machine Learning and Python enthusiast currently pursuing an M.Sc. in Applied Data Science and Artificial Intelligence. Passionate about building machine learning models and developing intelligent systems that solve real-world problems using data.",
+    "location": "Leimen, Baden-Württemberg, Germany",
+    "email": "nihalpujari2@gmail.com",
+    "phone": "+49 1551 0733665",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/nihal-pujari",
+      "github": "https://github.com/Nihalpujari"
+    }
+  },
+  "experience": [
+    {
+      "company": "Rooman Technologies",
+      "role": "Cloud Application Developer - Internship",
+      "dates": "09/2024 - 02/2025",
+      "bullets": [
+        "Gained strong hands-on expertise in AWS Cloud services (EC2, S3, IAM), building a clear understanding of cloud architecture, deployment, and infrastructure management through real-time implementation.",
+        "Developed and integrated full-stack web applications using Python, Flask, HTML, and databases, gaining practical experience in backend development, RESTful APIs, and cloud deployment."
+      ]
+    },
+    {
+      "company": "Prodevans Technologies",
+      "role": "Web Development - Internship",
+      "dates": "11/2023 - 12/2023",
+      "bullets": [
+        "Selected as Team Lead during my first internship, where I led the development of a web-based e-canteen system using PHP, SQL, HTML, and CSS.",
+        "Gained practical experience in leadership, team management, and real-world project execution, strengthening communication, responsibility, and problem-solving skills."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Voice Classification System",
+      "stack": "Machine Learning",
+      "bullets": [
+        "Published research in International Journal of Research Trends and Innovation, May 2025."
+      ]
+    },
+    {
+      "title": "Automated Recruiting System",
+      "stack": "Machine Learning",
+      "bullets": [
+        "Developed an intelligent system to streamline recruitment using ML techniques."
+      ]
+    },
+    {
+      "title": "Customer Churn Prediction",
+      "stack": "Python / ML",
+      "bullets": [
+        "Developed a predictive model to identify potential customer churn."
+      ]
+    },
+    {
+      "title": "E-canteen System",
+      "stack": "Web Dev",
+      "bullets": [
+        "Full-stack web application for digitalizing canteen orders and management."
+      ]
+    },
+    {
+      "title": "Credit Card Fraud Detection",
+      "stack": "Data Science",
+      "bullets": [
+        "Implemented anomaly detection algorithms for financial transactions."
+      ]
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Machine Learning",
+      "SAS (Software)",
+      "Python",
+      "AWS (EC2, S3, IAM)",
+      "Flask",
+      "SQL",
+      "HTML/CSS",
+      "PHP"
+    ],
+    "languages": [
+      { "language": "Kannada", "level": "Native" },
+      { "language": "Hindi", "level": "Business Fluent" },
+      { "language": "English", "level": "Business Fluent" },
+      { "language": "German", "level": "Novice" }
+    ]
+  },
+  "education": [
+    {
+      "degree": "M.Sc in Applied Data Science and Artificial Intelligence",
+      "institution": "SRH University, Heidelberg",
+      "dates": "10/2025 - Present"
+    },
+    {
+      "degree": "Bachelor of Engineering in Computer Science and Design",
+      "institution": "PDA College of Engineering, India",
+      "dates": "12/2021 - 06/2025"
+    }
+  ],
+  "certifications": [
+    "SAS Certified Specialist: Visual Business Analytics Using SAS Viya",
+    "AWS Academy Graduate - Cloud Foundations",
+    "NPTEL: Python",
+    "LinkedIn Learning: SQL Essential Training",
+    "LinkedIn Learning: HTML Essential Training"
+  ],
+  "achievements": [
+    {
+      "title": "Best Student",
+      "context": "Awarded Best Student at PDA College Of Engineering"
+    },
+    {
+      "title": "Best Project",
+      "context": "Audio Recognition System (Machine Learning) at PDA College Of Engineering"
+    }
+  ],
+  "social_engagement": [
+    "Technical Secretary - Computer Science Student Union",
+    "Python mentor for juniors (Interactive Python basics & programming concepts)"
+  ]
+}

@@ -1,0 +1,21 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="rgba(148, 163, 184, 0.25)" stroke-width="0.5"/>
+    </pattern>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(200 100) rotate(45) scale(600 400)">
+      <stop stop-color="#3B82F6" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#0B1120" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(1200 700) rotate(-45) scale(700 450)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1440" height="900" fill="#020617"/>
+  <rect width="1440" height="900" fill="url(#grid)"/>
+  <rect width="1440" height="900" fill="url(#glow)"/>
+  <rect width="1440" height="900" fill="url(#glow2)"/>
+</svg>

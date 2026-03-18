@@ -1,0 +1,36 @@
+<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(210 210) rotate(90) scale(210)">
+      <stop stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#020617"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="420" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="100" y1="320" x2="320" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="210" cy="210" r="210" fill="url(#bg)"/>
+  <circle cx="210" cy="210" r="196" stroke="url(#ring)" stroke-width="6" stroke-linecap="round" stroke-dasharray="6 18"/>
+
+  <circle cx="210" cy="170" r="80" fill="#020617" stroke="#1E293B" stroke-width="4"/>
+  <ellipse cx="210" cy="180" rx="45" ry="55" fill="#020617"/>
+
+  <path d="M120 330C140 270 180 250 210 250C240 250 280 270 300 330V360H120V330Z" fill="url(#shirt)"/>
+  <path d="M120 330C140 270 180 250 210 250C240 250 280 270 300 330" stroke="#0EA5E9" stroke-width="3" stroke-linecap="round" stroke-opacity="0.6"/>
+
+  <circle cx="178" cy="162" r="6" fill="#E5E7EB"/>
+  <circle cx="242" cy="162" r="6" fill="#E5E7EB"/>
+  <path d="M186 200C194 210 203 216 210 216C217 216 226 210 234 200" stroke="#22C55E" stroke-width="4" stroke-linecap="round"/>
+
+  <circle cx="150" cy="120" r="10" fill="#22C55E" fill-opacity="0.85"/>
+  <circle cx="280" cy="110" r="8" fill="#3B82F6" fill-opacity="0.9"/>
+  <circle cx="310" cy="210" r="6" fill="#FACC15" fill-opacity="0.9"/>
+  <circle cx="120" cy="220" r="6" fill="#F97316" fill-opacity="0.9"/>
+</svg>

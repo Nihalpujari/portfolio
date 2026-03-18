@@ -36,7 +36,7 @@
       "title": "Voice Classification System",
       "stack": "Machine Learning",
       "bullets": [
-        "Published research in International Journal of Research Trends and Innovation, May 2025."
+        "Developed a voice predictive model to identify a person's voice."
       ]
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "title": "Customer Churn Prediction",
-      "stack": "Python / ML",
+      "stack": "Machine Learning",
       "bullets": [
         "Developed a predictive model to identify potential customer churn."
       ]
@@ -101,7 +101,7 @@
   "certifications": [
     "SAS Certified Specialist: Visual Business Analytics Using SAS Viya",
     "AWS Academy Graduate - Cloud Foundations",
-    "NPTEL: Python",
+    "NPTEL and Datacamp: Python",
     "LinkedIn Learning: SQL Essential Training",
     "LinkedIn Learning: HTML Essential Training"
   ],
@@ -112,7 +112,7 @@
     },
     {
       "title": "Best Project",
-      "context": "Audio Recognition System (Machine Learning) at PDA College Of Engineering"
+      "context": "Voice Classification System (Machine Learning) at PDA College Of Engineering"
     }
   ],
   "social_engagement": [

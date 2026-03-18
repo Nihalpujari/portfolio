@@ -1,2 +1,2 @@
 Output
-https://pportfolio-six.vercel.app/
+https://portfolio-nihalpujaris-projects.vercel.app/
